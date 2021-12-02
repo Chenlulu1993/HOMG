@@ -1,9 +1,8 @@
 # HOMG
-Histograms of oriented mosaic gradients for snapshot spectral image description
 Matlab implementation of ISPRS paper "Histograms of oriented mosaic gradients for snapshot spectral image description"
 ## [Download the Paper] (https://www.sciencedirect.com/science/article/pii/S0924271621002860)
 
-
+## [Download the Mosaic Tracking Dataset]
 We offer the following ways to download the IMEC25 dataset.  
 Baidu YunPan (https://pan.baidu.com/s/1lTsInVr1cLVdZXsrI9ibBw Extraction code: cl25 )
 
