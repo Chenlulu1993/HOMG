@@ -6,6 +6,8 @@ Matlab implementation of ISPRS paper "Histograms of oriented mosaic gradients fo
 We offer the following ways to download the IMEC25 dataset.  
 Baidu YunPan (https://pan.baidu.com/s/1lTsInVr1cLVdZXsrI9ibBw Extraction code: cl25 )
 
+## [Download the mosaic_IMEC25.mat] 
+Baidu YunPan (https://pan.baidu.com/s/1M5b8vKkoIVfoWr2DKUMM5A Extraction code: cl25 )
 
 If you have any question, please contact ：cll2018@mail.nwpu.edu.cn
 
